@@ -1,7 +1,7 @@
 # DigiDerm Project
 
 ## DigiDerm Prototype
-![DigiDerm Prototype]()
+![DigiDerm Prototype](https://github.com/ShuhuaZheng/DigiDerm/blob/master/images/DigiDerm.png)
 
 ## Project Description 
 -Designed a mobile app prototype for diagnosing skin diseases. Through the app users can upload pictures of skin ailments to get a diagnosis with the help of AI and Machine Learning Technologies.
