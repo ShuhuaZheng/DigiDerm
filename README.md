@@ -1,7 +1,7 @@
 # DigiDerm Project
 
 ## DigiDerm Prototype
-![DigiDerm Prototype] ()
+![DigiDerm Prototype]()
 
 ## Project Description 
 -Designed a mobile app prototype for diagnosing skin diseases. Through the app users can upload pictures of skin ailments to get a diagnosis with the help of AI and Machine Learning Technologies.
